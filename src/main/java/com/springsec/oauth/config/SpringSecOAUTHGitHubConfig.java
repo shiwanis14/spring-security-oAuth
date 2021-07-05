@@ -21,7 +21,7 @@ public class SpringSecOAUTHGitHubConfig extends WebSecurityConfigurerAdapter {
 //    private ClientRegistration clientRegistration() { return
 //    CommonOAuth2Provider.GITHUB.getBuilder("github").clientId(
 //    "e482d40474aaaec77980")
-//    .clientSecret("dcd7d4f3b2fabeaf8a8646b0d1d653a4378170e9").build(); }
+//    .clientSecret("").build(); }
 
 
 //  private ClientRegistration clientRegistration() {
