@@ -28,7 +28,7 @@ public class SpringSecOAUTHGitHubConfig extends WebSecurityConfigurerAdapter {
 //    ClientRegistration cr =
 //        ClientRegistration.withRegistrationId("github").clientId(
 //            "3c9be97074f067e78e75")
-//            .clientSecret("ab313f7ade3d79e06c192ca80cf152c43cb5d916").scope(new String[]
+//            .clientSecret("").scope(new String[]
 //            {"read:user"})
 //            .authorizationUri("https://github.com/login/oauth/authorize")
 //            .tokenUri("https://github.com/login/oauth/access_token").userInfoUri(
